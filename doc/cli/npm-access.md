@@ -82,3 +82,4 @@ Management of teams and team memberships is done with the `npm team` command.
 * npm-publish(1)
 * npm-config(7)
 * npm-registry(7)
+> i am azq
